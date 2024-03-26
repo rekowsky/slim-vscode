@@ -16,6 +16,6 @@ Extensions to be installed (just go to extensios tab and look for them)
 
 
 Fonts (add to windows or linux)
-JetBrainsMono: https://www.jetbrains.com/lp/mono/
-JetBrainsMono Nerd Font: https://www.nerdfonts.com/font-downloads
-Inter: https://fonts.google.com/specimen/Inter
+1. JetBrainsMono: https://www.jetbrains.com/lp/mono/
+2. JetBrainsMono Nerd Font: https://www.nerdfonts.com/font-downloads
+3. Inter: https://fonts.google.com/specimen/Inter
