@@ -1,7 +1,7 @@
 # slim-vscode
 VSCode settings file optimized for better productivity and nice looking IDE enhancements
 
-This file is my current VSCode user settings file presenting a neat interface improving the look and feel and overall productity items to reduce unnecessary setups and organizing things better on the fly.
+This file is a VSCode user settings file presenting a neat interface improving the look and feel and overall productity items to reduce unnecessary setups and organizing things better on the fly.
 
 Platform: WSL/Linux
 
